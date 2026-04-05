@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Privacy Policy — FLS Audit Manager for Salesforce</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 800px; margin: 40px auto; padding: 0 24px; color: #1a1a1a; line-height: 1.7; }
+  h1 { color: #032d60; border-bottom: 2px solid #0176d3; padding-bottom: 12px; }
+  h2 { color: #032d60; margin-top: 32px; }
+  .highlight { background: #e8f4fd; border-left: 4px solid #0176d3; padding: 12px 16px; border-radius: 4px; }
+  footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid #e0e0e0; color: #666; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+
+<h1>🔐 Privacy Policy</h1>
+<p><strong>FLS Audit Manager for Salesforce</strong><br/>
+Last updated: April 2026<br/>
+Author: Gaurav Kumar</p>
+
+<div class="highlight">
+  <strong>Summary:</strong> This extension does not collect, store, transmit, or share any of your data. Everything stays in your browser and your Salesforce org.
+</div>
+
+<h2>1. What This Extension Does</h2>
+<p>FLS Audit Manager is a Chrome extension that helps Salesforce administrators audit and manage Field-Level Security (FLS) across profiles directly from their browser. It connects to your Salesforce org using your existing authenticated session.</p>
+
+<h2>2. Data We Do NOT Collect</h2>
+<ul>
+  <li>We do <strong>not</strong> collect any personal information.</li>
+  <li>We do <strong>not</strong> transmit any Salesforce data to external servers.</li>
+  <li>We do <strong>not</strong> store your Salesforce session token beyond your browser session.</li>
+  <li>We do <strong>not</strong> use analytics, tracking, or advertising of any kind.</li>
+  <li>We do <strong>not</strong> share any information with third parties.</li>
+</ul>
+
+<h2>3. How the Extension Works</h2>
+<p>The extension reads your active Salesforce session from your browser tab (the same session you use to log in to Salesforce). It uses this session to make direct API calls from your browser to your Salesforce org. All data flows directly between your browser and your Salesforce org — no intermediary servers are involved.</p>
+
+<h2>4. Permissions Explained</h2>
+<ul>
+  <li><strong>activeTab / tabs / scripting:</strong> Required to detect your open Salesforce tab and extract the active session. Without this the extension cannot connect to your org.</li>
+  <li><strong>storage:</strong> Used only to temporarily cache your Salesforce session within your browser session (cleared when you close Chrome). Also used to save your field exclusion list locally on your device.</li>
+  <li><strong>cookies:</strong> Used as a fallback method to read the Salesforce session cookie from your browser. This data never leaves your device.</li>
+  <li><strong>host_permissions (*.salesforce.com etc.):</strong> Required to make API calls to your Salesforce org directly from the browser.</li>
+</ul>
+
+<h2>5. Data Storage</h2>
+<p>The only data stored locally on your device is:</p>
+<ul>
+  <li>Your Salesforce session (temporary, cleared on browser close — uses <code>chrome.storage.session</code>)</li>
+  <li>Your custom field exclusion list (stored locally using <code>chrome.storage.local</code>, never transmitted anywhere)</li>
+</ul>
+
+<h2>6. No External Servers</h2>
+<p>This extension has no backend server, no database, and no cloud infrastructure. It is a pure client-side browser extension. Your Salesforce credentials and org data never leave your browser.</p>
+
+<h2>7. Children's Privacy</h2>
+<p>This extension is intended for professional Salesforce administrators and is not directed at children under 13.</p>
+
+<h2>8. Changes to This Policy</h2>
+<p>If this privacy policy changes, the updated version will be published at this URL and the "Last updated" date will be revised. Continued use of the extension constitutes acceptance of the updated policy.</p>
+
+<h2>9. Contact</h2>
+<p>For any questions about this privacy policy, contact:<br/>
+<strong>Gaurav Kumar</strong><br/>
+GitHub: <a href="https://github.com/rgaurav259">github.com/rgaurav259</a></p>
+
+<footer>
+  © 2026 Gaurav Kumar. FLS Audit Manager for Salesforce is free software licensed under the MIT License.
+</footer>
+
+</body>
+</html>
