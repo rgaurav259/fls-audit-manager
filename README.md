@@ -36,13 +36,6 @@ FLS Audit Manager solves one of the most painful Salesforce admin tasks — audi
 
 Install from the [Chrome Web Store](#) *(link after publishing)*
 
-Or load unpacked for development:
-1. Download or clone this repository
-2. Open Chrome → `chrome://extensions/`
-3. Enable **Developer mode** (top right toggle)
-4. Click **Load unpacked**
-5. Select the extension folder
-
 ---
 
 ## How To Use
