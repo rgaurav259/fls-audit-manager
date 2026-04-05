@@ -3,7 +3,6 @@
 > Audit and fix Field-Level Security across all Salesforce profiles — directly from Chrome.
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-blue?logo=googlechrome)](https://chrome.google.com/webstore)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange)](https://developer.chrome.com/docs/extensions/mv3/)
 
 ---
@@ -74,9 +73,12 @@ Full privacy policy: [View Privacy Policy](https://rgaurav259.github.io/fls-audi
 
 ## License
 
-MIT License — free to use, modify and distribute with attribution.
+**All Rights Reserved**
 
 © 2026 Gaurav Kumar
+
+This software is proprietary. Unauthorized copying, modification, distribution, or reuse of this software, in whole or in part, is strictly prohibited.
+
 
 ---
 
