@@ -28,9 +28,13 @@ FLS Audit Manager solves one of the most painful Salesforce admin tasks — audi
 
 ## Screenshots
 
-<img width="1918" height="837" alt="page 5" src="https://github.com/user-attachments/assets/d97b7ffd-a6a8-42aa-bff7-e018f11c81c0" />
-
-
+<img width="669" height="783" alt="Page 1" src="https://github.com/user-attachments/assets/8433204a-a97f-4f73-9e4f-a045fbc5ece1" />
+<img width="1918" height="867" alt="Page 2" src="https://github.com/user-attachments/assets/b8afe5f3-0ca6-4f71-acd0-804af4cf444e" />
+<img width="1916" height="848" alt="page 3" src="https://github.com/user-attachments/assets/97734826-06ac-43f1-a2ac-1a0340ef50a1" />
+<img width="1882" height="827" alt="page 3 1" src="https://github.com/user-attachments/assets/e62bad91-c471-4c11-aabc-aa20b5d74100" />
+<img width="1901" height="787" alt="page 3 2" src="https://github.com/user-attachments/assets/1bb4d2d2-1014-4649-b61c-4192bccb28fc" />
+<img width="1902" height="840" alt="page 4" src="https://github.com/user-attachments/assets/aa01a9ee-53da-4df6-98d1-43381e4903e8" />
+<img width="1918" height="837" alt="page 5" src="https://github.com/user-attachments/assets/367fc778-4e80-4dbc-8912-400568720dec" />
 
 ---
 
