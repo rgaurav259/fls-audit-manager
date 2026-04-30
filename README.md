@@ -39,7 +39,7 @@ FLS Audit Manager solves one of the most painful Salesforce admin tasks — audi
 
 ## Installation
 
-Install from the [Chrome Web Store](#) *(link after publishing)*
+Install from the [Chrome Web Store](#) *(https://chromewebstore.google.com/detail/fls-audit-manager-for-sal/jolbgchjcdfgfkpfcjdpemcighgnlamn)*
 
 ---
 
